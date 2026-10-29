@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Tiānjīng",
+    "image": "Capital Imperial.webp",
+    "terms": [
+      "capital",
+      "radiant dragon palace",
+      "hall of divine harmony",
+      "six ministries district",
+      "grand imperial market",
+      "imperial altar"
+    ]
+  },
+  {
+    "name": "Yùlín",
+    "image": "Yulin.webp",
+    "terms": [
+      "yùlín",
+      "northern wall pass",
+      "iron tiger shrine"
+    ]
+  },
+  {
+    "name": "Jinzhou",
+    "image": "Jinzhou.webp",
+    "terms": [
+      "jinzhou",
+      "agricultural governor",
+      "great imperial granaries",
+      "canal irrigation station",
+      "central grain market",
+      "harvest earth shrine"
+    ]
+  },
+  {
+    "name": "Jiāngnán",
+    "image": "Jiangnan .webp",
+    "terms": [
+      "jiāngnán",
+      "jiangnan governor",
+      "silk and tea river market",
+      "silk weaving district",
+      "serene bamboo grove"
+    ]
+  },
+  {
+    "name": "Qingshan",
+    "image": "Qinshan.webp",
+    "terms": [
+      "qingshan",
+      "medicinal herb valley",
+      "pure elixir pavilion",
+      "high-altitude tea terraces",
+      "mist peaks shrine"
+    ]
+  },
+  {
+    "name": "Haiyu",
+    "image": "Haiyu.webp",
+    "terms": [
+      "haiyu",
+      "harbor of a thousand ships",
+      "pearl and salt merchants",
+      "haiyu shipyards",
+      "sea dragon shrine"
+    ]
+  },
+  {
+    "name": "Changyu",
+    "image": "Changyu.webp",
+    "terms": [
+      "changyu",
+      "western pass"
+    ]
+  }
+]
